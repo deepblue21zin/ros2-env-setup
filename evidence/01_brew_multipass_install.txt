@@ -1,0 +1,27 @@
+Script started on Thu Feb 26 21:43:31 2026
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Deepblueui-MacBookPro.local/Users/deepblue/ws/ros2_ws]2;deepblue@Deepblueui-MacBookPro]1;~/ws/ros2_ws]7;file://Deepblueui-MacBookPro.local/Users/deepblue/ws/ros2_ws\[0m[27m[24m[J[01;32m➜  [36mros2_ws[00m [K[?1h=[?2004he[1m[31me[0m[39m[1m[31me[1m[31mx[0m[39m[0m[32me[0m[32mx[39m[32me[32mx[32mi[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[1m[31mi[1m[31mt[0m[39m[0m[32me[0m[32mx[0m[32mi[0m[32mt[39m[?1l>[?2004l
+]2;exit]1;exit
+Saving session...completed.
+Deleting expired sessions...       4 completed.
+
+Script done on Thu Feb 26 21:43:42 2026
+Restored session: 2026년 2월 26일 목요일 21시 43분 42초 KST
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Deepblueui-MacBookPro.local/Users/deepblue/repos/ros2-humble-multipass-macos13]2;deepblue@Deepblueui-MacBookPro]1;..ipass-macos13]7;file://Deepblueui-MacBookPro.local/Users/deepblue/repos/ros2-humble-multipass-macos13\[0m[27m[24m[J[01;32m➜  [36mros2-humble-multipass-macos13[00m [K[?1h=[?2004hmmultipass info[14D[7mm[7mu[7ml[7mt[7mi[7mp[7ma[7ms[7ms[7m [7mi[7mn[7mf[7mo[27m
+[K[A[33C[27mm[27mu[27ml[27mt[27mi[27mp[27ma[27ms[27ms[27m [27mi[27mn[27mf[27mo[1B[K[A[33C[32mm[32mu[32ml[32mt[32mi[32mp[32ma[32ms[32ms[39m[1B[?1l>[?2004l
+]2;multipass info]1;multipassName:           ubuntu2204
+State:          Running
+Snapshots:      0
+IPv4:           192.168.64.2
+Release:        Ubuntu 22.04.5 LTS
+Image hash:     853c8aa56210 (Ubuntu 22.04 LTS)
+CPU(s):         4
+Load:           0.06 0.11 0.04
+Disk usage:     5.5GiB out of 58.1GiB
+Memory usage:   332.3MiB out of 7.7GiB
+Mounts:         /Users/deepblue/ws/ros2_ws => /home/ubuntu/ros2_ws
+                    UID map: 501:default
+                    GID map: 20:default
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Deepblueui-MacBookPro.local/Users/deepblue/repos/ros2-humble-multipass-macos13]2;deepblue@Deepblueui-MacBookPro]1;..ipass-macos13]7;file://Deepblueui-MacBookPro.local/Users/deepblue/repos/ros2-humble-multipass-macos13\[0m[27m[24m[J[01;32m➜  [36mros2-humble-multipass-macos13[00m [K[?1h=[?2004heexit[7me[7mx[7mi[7mt[27m
+[K[A[33C[27me[27mx[27mi[27mt[1B[K[A[33C[32me[32mx[32mi[32mt[39m[1B[?1l>[?2004l
+]2;exit]1;exit
+Saving session...completed.

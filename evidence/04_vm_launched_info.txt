@@ -1,0 +1,26 @@
+Script started on Thu Feb 26 22:31:19 2026
+command: /bin/zsh -lc multipass info; multipass list; multipass exec ubuntu2204 -- bash -lc "hostname; uname -r; ls -la /home/ubuntu/ros2_ws"
+Name:           ubuntu2204
+State:          Running
+Snapshots:      0
+IPv4:           192.168.64.2
+Release:        Ubuntu 22.04.5 LTS
+Image hash:     853c8aa56210 (Ubuntu 22.04 LTS)
+CPU(s):         4
+Load:           0.00 0.01 0.00
+Disk usage:     5.5GiB out of 58.1GiB
+Memory usage:   286.8MiB out of 7.7GiB
+Mounts:         /Users/deepblue/ws/ros2_ws => /home/ubuntu/ros2_ws
+                    UID map: 501:default
+                    GID map: 20:default
+Name                    State             IPv4             Image
+ubuntu2204              Running           192.168.64.2     Ubuntu 22.04 LTS
+ubuntu2204
+5.15.0-171-generic
+total 16
+drwxr-xr-x  1 ubuntu ubuntu  128 Feb 26 21:42 .
+drwxr-x--- 10 ubuntu ubuntu 4096 Feb 26 22:28 ..
+-rw-r--r--  1 ubuntu ubuntu    8 Feb 26 19:49 TEST_FROM_VM.txt
+drwxr-xr-x  1 ubuntu ubuntu   64 Feb 26 21:42 src
+
+Script done on Thu Feb 26 22:31:20 2026
