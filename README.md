@@ -106,7 +106,21 @@ multipass exec ubuntu2204 -- bash -lc "source /opt/ros/humble/setup.bash && ros2
 
 ---
 
-## Step 4: 스크린샷 정리(문서에 넣는 방법)
+## 증거 파일 상태(현재 기록 기준)
+
+- `04_vm_launched_info.txt`: 완료 (Host VM 상태 + VM 내부 기본 정보 기록)
+- `06_ros2_help_ok.txt`: 완료 (`ros2 --help`, `ros2 doctor --report` 기록)
+- `07_talker_listener_ok.txt`: 완료 (talker/listener 통신 로그)
+- `01_brew_multipass_install.txt`: 완료 (기초 환경 확인)
+- `02_launchctl_bootstrap_ok.txt`: 본 세션에서 직접 재현 로그 미기록
+- `03_hash_mismatch_error.txt`: 본 세션에서 직접 재현 로그 미기록
+- `05_kernel_updated_uname.txt`: 본 세션에서 직접 재현 로그 미기록
+
+> 02/03/05는 실제 장애가 재현되지 않은 항목으로, 향후 해당 장애를 재현했을 때 증거를 추가하면 된다.
+
+---
+
+## Step 5: 스크린샷 정리(문서에 넣는 방법)
 
 ### 1) 캡처 시점
 - `needrestart`/`reboot required` 등 GUI 경고가 필요한 화면

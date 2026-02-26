@@ -6,6 +6,11 @@
 
 ---
 
+## 0) 증상 재현 상태 요약
+
+- 완료: `01_brew_multipass_install`, `04_vm_launched_info`, `06_ros2_help_ok`, `07_talker_listener_ok`
+- 미발생/미기록: `02_launchctl_bootstrap_ok`, `03_hash_mismatch_error`, `05_kernel_updated_uname`
+
 ## 1) `Homebrew 5.0.15`, macOS 13.7 경고
 
 ### 증상
@@ -102,6 +107,9 @@ multipass launch 22.04 -n ubuntu2204 -c 4 -m 8G -d 60G
 ### 근거 파일
 - `evidence/03_hash_mismatch_error.txt`
 - `evidence/04_vm_launched_info.txt`
+
+### 현재 상태
+- 본 세션에서는 해당 이슈가 재현되지 않아 미기록 상태다.
 
 ---
 
